@@ -1,0 +1,103 @@
+{
+  "titleNameMap": {
+    "educationList": "EDUCATION",
+    "workExpList": "AI MODEL EVALUATION EXPERIENCE",
+    "projectList": "PROJECTS",
+    "skillList": "TECHNICAL SKILLS",
+    "awardList": "HONORS & AWARDS",
+    "workList": "ADDITIONAL",
+    "aboutme": "RESEARCH INTERESTS"
+  },
+  "avatar": {
+    "src": "",
+    "hidden": true
+  },
+  "profile": {
+    "name": "MAN CHEUNG LIU",
+    "email": "18927342698@163.com",
+    "mobile": "+86 189 2734 2698",
+    "github": "https://github.com/Zenithkkkk",
+    "zhihu": "",
+    "workExpYear": "Computer Science Undergraduate"
+  },
+  "educationList": [
+    {
+      "edu_time": [
+        "2024.09",
+        "2028.06"
+      ],
+      "school": "Jinan University — International School",
+      "major": "Computer Science and Technology | GPA: 3.53/5.0 | Top 10% in Major",
+      "academic_degree": "B.Eng. (Expected)"
+    },
+    {
+      "edu_time": [
+        "2026.02",
+        "2026.07"
+      ],
+      "school": "DHBW Karlsruhe",
+      "major": "Computer Science Exchange | 23 ECTS | Algorithms: 1.0 (Very Good/A) | Database Concepts: 1.3 (Very Good/A)",
+      "academic_degree": "Exchange Student"
+    }
+  ],
+  "workExpList": [
+    {
+      "company_name": "DataAnnotation Platform",
+      "department_name": "AI Model & Coding Evaluator — Remote",
+      "work_time": [
+        "2025.06",
+        null
+      ],
+      "work_desc": "• Evaluated AI-generated responses across reasoning and coding tasks, identifying factual, logical, and implementation errors and proposing targeted improvements.\n• Designed evaluation rubrics and adversarial prompts to expose model weaknesses and systematically assess response quality.\n• Reviewed and refined AI-generated solutions for coding and repository-level software engineering tasks.\n• Used Docker-based environments to run AI models/agents on repository tasks and evaluate their code modifications against task requirements."
+    }
+  ],
+  "skillList": [
+    {
+      "skill_name": "Programming",
+      "skill_desc": "Python, Java, C++, JavaScript, HTML/CSS"
+    },
+    {
+      "skill_name": "Frameworks & Web",
+      "skill_desc": "Spring Boot, MyBatis, Vue.js, Node.js, Express, EJS"
+    },
+    {
+      "skill_name": "Databases",
+      "skill_desc": "MySQL, MongoDB"
+    },
+    {
+      "skill_name": "Tools & Infrastructure",
+      "skill_desc": "Git, GitHub, Maven, Docker, Linux, Nginx, Aliyun, Cursor, Codex"
+    },
+    {
+      "skill_name": "Languages",
+      "skill_desc": "Chinese (Native); English (Advanced working proficiency; semester-long English-taught study experience in Germany)"
+    }
+  ],
+  "projectList": [
+    {
+      "project_name": "Smart CookingHub",
+      "project_role": "Independent Web Project",
+      "project_time": "2025 - Present",
+      "project_desc": "A multilingual recipe-sharing platform independently conceived and designed. Tech: Node.js, Express, EJS, MongoDB, JavaScript, Google Translate API, Nginx, Aliyun. GitHub: https://github.com/Zenithkkkk/CookingHubb | Live Demo: http://8.148.229.49",
+      "project_content": "• Defined the overall architecture, core features, workflows, and user experience, using Cursor and Codex extensively for AI-assisted implementation, debugging, and iteration.\n• Designed an illustration-driven, cloud-and-comic-inspired homepage with a distinctive visual identity.\n• Designed search and filtering logic for discovering recipes based on user queries and structured recipe information.\n• Designed the My Fridge workflow to recommend suitable recipes based on users' available ingredients.\n• Integrated Google Translate API for multilingual content and on-demand comment translation.\n• Deployed the application on an Aliyun cloud server with Nginx reverse proxying."
+    }
+  ],
+  "awardList": [
+    {
+      "award_info": "Second-Class Scholarship for Hong Kong, Macao and Taiwan Students — Jinan University",
+      "award_time": "2025"
+    },
+    {
+      "award_info": "Provincial Second Prize — Blue Bridge Cup, C/C++ Programming, University Group A",
+      "award_time": "2024"
+    }
+  ],
+  "workList": [],
+  "aboutme": {
+    "aboutme_desc": "Research Interests: Machine Learning, Large Language Models, and AI Application Development.\n\nRelevant DHBW coursework: Hands-on AI – from Machine Learning to Chatbots, Web Engineering, and Software Engineering II."
+  },
+  "theme": {
+    "color": "#2f5785",
+    "tagColor": "#8bc34a"
+  }
+}
